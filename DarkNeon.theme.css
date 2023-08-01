@@ -34,5 +34,5 @@
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 10px; /* Blurs the image which helps with readability of text infront of it */
-  --background-brightness: 100%; /* Changes the background images brightness */
+  --background-brightness: 50%; /* Changes the background images brightness */
 }
