@@ -33,6 +33,6 @@
   --background-image: url(https://external-preview.redd.it/ipSPbCuUwCbVM5nfI_v7IHcWUzvnrH8NMuiXG4N1pcg.jpg?auto=webp&s=b4e1d9366510a0b331221dd6e3a9124b3167dcdd); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
-  --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */
+  --background-blur: 10px; /* Blurs the image which helps with readability of text infront of it */
   --background-brightness: 100%; /* Changes the background images brightness */
 }
