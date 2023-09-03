@@ -35,4 +35,5 @@
   --background-size: cover; /* Scales the background image */
   --background-blur: 10px; /* Blurs the image which helps with readability of text infront of it */
   --background-brightness: 45%; /* Changes the background images brightness */
+  --user-popout-image: url('https://www.nerostein.ee/img/p/1/0/9/7/0/10970-large_default.jpg')
 }
